@@ -1,0 +1,12 @@
+Package: statbantu
+Title: Tabel Distribusi Frekuensi dan Statistik Lima Serangkai
+Version: 0.0.0.9000
+Authors@R: 
+    person("Rafa", "Rahman", , "rafa.rahman@mhs.unsoed.ac.id", role = c("aut", "cre"))
+Description: Menyediakan fungsi praktis untuk membuat Tabel Distribusi Frekuensi (TDF) menggunakan aturan Sturges beserta perhitungan Statistik Lima Serangkai secara otomatis.
+License: GPL-3
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: 
+    tcltk

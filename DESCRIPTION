@@ -10,3 +10,5 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Imports: 
     tcltk
+URL: https://github.com/rafarahman19/statbantu
+BugReports: https://github.com/rafarahman19/statbantu/issues
